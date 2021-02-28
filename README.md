@@ -9,6 +9,7 @@ To download the files, please click "code" and then "download zip". (Your git cl
 
 If you're running on your own machine, please find links to downloads below:
 https://support.etcconnect.com/ETC/Consoles/Eos_Family/Software_and_Programming/All_Eos_Family_Software_Versions (This tutorial uses 2.9.2, skipping the functionality of Augment3d. Available on both Windows and Mac, with slightly different hotkeys that are listed under the program files)
+
 https://qlab.app/ (For mac only, sorry folks. Try a VM if you're really dedicated or send me an email and I can hook you up with mac time)
 
 Any questions? Shoot me a message at tdrgraham@gmail.com
